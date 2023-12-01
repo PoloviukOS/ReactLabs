@@ -1,0 +1,29 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.disclaimer {
+    font-size: 12px;
+    color: #666;
+    margin-top: 15px;
+}
+
+.exchangeRatesTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.exchangeRatesTable th, .exchangeRatesTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.exchangeRatesTable th {
+    background-color: #f2f2f2;
+}
